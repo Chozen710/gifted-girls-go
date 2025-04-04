@@ -146,8 +146,3 @@
 
 </body>
 </html> 
-
-<section id="gallery">
-  <h2>Gallery</h2>
-  <p>Coming Soon: Photos from our library days, planting project, and United Skates night!</p>
-</section>
