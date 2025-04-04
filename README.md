@@ -129,3 +129,25 @@
   <h2>Gallery</h2>
   <p>Coming Soon: Photos from our library days, planting project, and United Skates night!</p>
 </section>
+
+<section id="contact">
+  <h2>Contact & Join</h2>
+  <p><strong>Email:</strong> GiftedGirlsGo@gmail.com</p>
+  <p><strong>Phone:</strong> (929) 206-2827</p>
+  <p><strong>Instagram:</strong> @GiftedGirlsClub</p>
+  <br>
+  <a href="mailto:GiftedGirlsGo@gmail.com?subject=Join the Gifted Girls Club" class="btn">Click Here to Join</a>
+</section>
+
+<footer>
+  <p>Happy Birthday to Jameah — April 19!</p>
+  <p>&copy; 2025 Gifted Girls Club | Powered by Faith & Sisterhood</p>
+</footer>
+
+</body>
+</html> 
+
+<section id="gallery">
+  <h2>Gallery</h2>
+  <p>Coming Soon: Photos from our library days, planting project, and United Skates night!</p>
+</section>
